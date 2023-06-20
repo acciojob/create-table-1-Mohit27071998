@@ -7,5 +7,5 @@ function insert_Row() {
   let cell2 = x.insertCell();
 
   cell1.innerHTML = "New Cell1";
-  cell2.innerHTML = "New Cell2";
+  cell2.innerHTML = "New Cell2";
 }
